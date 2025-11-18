@@ -1,0 +1,15 @@
+{
+  "name": "show-daily-tikr",
+  "version": "1.0.0",
+  "description": "show daily tikr for AAL stock price changes and market trends",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "cpos",
+    "generated"
+  ],
+  "author": "CPOS",
+  "license": "MIT"
+}
